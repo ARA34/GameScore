@@ -1,5 +1,6 @@
 # GameScore.github.io
 Website for my game development company named Game Score.
+https://ara34.github.io/GameScore/
 
 The game we are working on right now still doesn't have a name.
 
